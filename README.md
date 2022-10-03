@@ -4,15 +4,15 @@
 
 > Projeto construído para o desafio final do Stage 02.
 
-[clique aqui para acessar](https://github.com/BorbaWanderson/desafio_03)
+[clique aqui para acessar](https://borbawanderson.github.io/desafio_03/)
 
-## Tecnologias
+## 🛠️ Tecnologias
 
 - Html
 - CSS
 - Github
 
-## Contato
+## 📬 Contato
 
 https://www.linkedin.com/in/wanderson-borba-a96969115/
 
