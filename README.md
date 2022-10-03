@@ -1,6 +1,6 @@
 # Trilha Explorer > Stage 02 - Introdução ao HTML e CSS.
 
-![review](https://imgur.com/a/yTgguJ1)
+![review](https://i.imgur.com/cRLsu6c.png)
 
 > Projeto construído para o desafio final do Stage 02.
 
