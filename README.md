@@ -1,6 +1,6 @@
 # Trilha Explorer > Stage 02 - Introdução ao HTML e CSS.
 
-![review](./.github/dasafio_03.png)
+![review](https://borbawanderson.github.io/desafio_03/)
 
 > Projeto construído para o desafio final do Stage 02.
 
